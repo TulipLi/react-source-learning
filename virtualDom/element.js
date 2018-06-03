@@ -36,8 +36,6 @@ var ul = el('ul', {id: 'list'}, [
 ])
 
 function test() {
-  console.info('test')
   var ulRoot = ul.render()
-  console.info({ulRoot})
   document.body.appendChild(ulRoot)
 }
