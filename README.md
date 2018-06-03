@@ -1,2 +1,2 @@
 # react-source-learning
-react 源码学习笔记
+react 学习笔记
